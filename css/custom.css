@@ -1,0 +1,8 @@
+.test {
+    background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.center{margin:0 auto}.glow{text-shadow:0 0 30px #ff751a}.awesome{color:#751aff;-webkit-animation:colorchange 5s infinite alternate}@-webkit-keyframes colorchange{0%{color:#3cc}10%{color:#c3f}20%{color:#f06}40%{color:#3c3}60%{color:#f60}80%{color:#f0f}100%{color:#3c3}}.awesomeadmin{color:red;-webkit-animation:colorchangeadmin 15s infinite alternate}@-webkit-keyframes colorchangeadmin{0%{color:red}30%{color:#3c3}60%{color:#8000ff}90%{color:#ffb31a}100%{color:#3cc}}
